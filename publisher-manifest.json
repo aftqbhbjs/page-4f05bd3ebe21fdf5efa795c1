@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c6e7ce572c3cefcd1c5a2f82",
+  "owner": "aftqbhbjs",
+  "repo": "page-4f05bd3ebe21fdf5efa795c1",
+  "title": "Zeze",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4f05bd3ebe21fdf5efa795c1",
+      "a": "Zeze",
+      "b": "机场官网线路发布页",
+      "entity": "Zeze",
+      "brand": "Zeze",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "060958b99d71914d9204d675e036e8ac61d2881308bad780fc1535ee7bc08479",
+      "content": {
+        "primary_entity": "Zeze",
+        "keyword1": "Zeze",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择适配客户端，配置订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连上 Zeze",
+          "AI_DESCRIPTION": "，Zeze 提供基础版、旗舰版与团队版三种选择。基础版适合单人轻度使用，旗舰版增加至 5 台设备并优化专线游戏体验，团队版支持 20 台设备与定制路由。支持按年付费节省开支，客户端覆盖主流平台。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。可按设备数量与流量需求选择。",
+          "AI_FAQ_ANSWER_2": "可以。套餐支持按月或按年支付，按年付费价格更优惠，例如基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_ANSWER_3": "旗舰版在普通节点基础上增加 IPLC 专线，针对游戏加速进行优化，并提供 7x24 优先工单支持，适合对延迟敏感的场景。",
+          "AI_FAQ_ANSWER_4": "按设备系统选择对应客户端，导入订阅链接后即可连接。不同平台客户端操作略有差异，请参照具体客户端的配置文档。",
+          "AI_FAQ_ANSWER_5": "根据常用设备数量和月流量需求判断。单人 3 台以内选基础版，5 台左右且有游戏需求选旗舰版，多设备或多成员使用选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐分别支持多少台设备和流量？",
+          "AI_FAQ_QUESTION_2": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_3": "旗舰版的专线加速适合什么场景？",
+          "AI_FAQ_QUESTION_4": "如何在设备上配置 Zeze 订阅？",
+          "AI_FAQ_QUESTION_5": "怎么判断该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个方面对比套餐。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备数量选择。",
+          "AI_FEATURE_TEXT_2": "基础版 100GB、旗舰版 300GB、团队版 1000GB 每月流量，按使用强度匹配。",
+          "AI_FEATURE_TEXT_3": "支持按月或按年付费，年付方案更节省，长期使用可选年付。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "月流量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按需求选定套餐，确认设备适配，再依客户端说明配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Zeze 提供基础版、旗舰版与团队版三档海外加速方案，覆盖不同流量与设备数量需求，支持主流平台客户端连接。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖单人至团队",
+          "AI_HIGHLIGHT_2": "支持按年付费更节省",
+          "AI_HIGHLIGHT_3": "主流平台客户端连接",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选择合适方案。",
+          "AI_STEP_TEXT_2": "确认设备系统与套餐支持的在线设备数量匹配，避免超出限制。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅配置，完成连接设置。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Zeze 加速服务"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aymszgk.cn",
+    "host": "aymszgk.cn"
+  },
+  "file_hashes": {
+    "index.html": "3540a317059a51243c942fa602bdd762643580b20290103c11ab30090c9a0c43",
+    "sitemap.xml": "03513c0c405a717eaf37650e16bb7cb8a90a7de38aefd29251c0fdac645e1e90",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e92058064e159a2988a019e01d0ea248ba5523a840ff10fe8e60d0c4e24051e4",
+    "robots.txt": "02d126422193d27c2b7c510caf4fc5b8b9884829b165471fe47be6373b7af907",
+    "cda07cbd30f016c8ec0e3efb9a02e51e.txt": "763201ea133a4153f9ad8c689f28954479813f1d7b934bc57ab3218609d3cc93"
+  },
+  "revision": "eee13d3062a7671e6cfa42b51bdd5f4d70b8bb51d1a9500c92bb7fdf428eb59c"
+}
